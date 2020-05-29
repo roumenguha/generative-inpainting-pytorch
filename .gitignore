@@ -107,3 +107,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+imagenet-20200529T225430Z-001.zip
+torch_model.p
+imagenet/hole_benchmark/dis_00430000.pt
+imagenet/hole_benchmark/gen_00430000.pt
+imagenet/hole_benchmark/optimizer.pt
